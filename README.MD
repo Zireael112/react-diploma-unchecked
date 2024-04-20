@@ -1,7 +1,7 @@
 Процесс установки приложения
 
 ```bash
-https://github.com/Zireael112/react-diploma-unchecked.git
+git clone https://github.com/Zireael112/react-diploma-unchecked.git
 
 cd backend
 
