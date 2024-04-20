@@ -34,5 +34,5 @@ cd ../backend/
 
 python manage.py runserver
 ```
-Запускать на localhost:8000
+В ваше браузере теперь доступно приложение по [ссылке](http://localhost:8000/) 
 
