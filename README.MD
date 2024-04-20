@@ -1,3 +1,5 @@
+Процесс установки приложения
+
 ```bash
 https://github.com/Zireael112/react-diploma-unchecked.git
 
